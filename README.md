@@ -1,7 +1,8 @@
 # React App, Activity Counter
 
 A React app used to count the number of times one does an activity.
-- From this [tutorial](https://www.linkedin.com/learning/react-js-essential-training/planning-an-activitycounter)
+-  Code is from this [tutorial](https://www.linkedin.com/learning/react-js-essential-training/planning-an-activitycounter)
+- See also [Notes & Comments](Setup-react-activity-counter-notes.md)
 
 ## DEPENDENCIES
 - Node.js
