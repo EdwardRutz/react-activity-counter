@@ -5,6 +5,7 @@ A React app used to count the number of times one does an activity.
 
 ## DEPENDENCIES
 - Node.js
+```
 "devDependencies": {
     "autoprefixer-loader": "3.2.0",
     "babel-cli": "6.18.0",
@@ -24,6 +25,7 @@ A React app used to count the number of times one does an activity.
     "react": "15.3.2",
     "react-dom": "15.3.2"
   }
+  ```
 
 ## INSTALL & SETUP
 - Clone repository
